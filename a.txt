@@ -1,7 +1,4 @@
 hi 
 hello
 good morning
-
-edit b2
-
-edit
+fetch
